@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.calistolabs.com/sitemap.xml
+
